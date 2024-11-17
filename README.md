@@ -4,3 +4,4 @@
 
 
 ## Tech used:
+1) HTML5
