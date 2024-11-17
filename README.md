@@ -11,4 +11,4 @@
 
 
 ## API used
-### FREETOGAME API ==>
+### FREETOGAME API ==> https://www.freetogame.com/api-doc
