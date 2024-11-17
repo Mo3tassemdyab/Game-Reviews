@@ -7,3 +7,4 @@
 1) HTML5
 2) CSS3
 3) Bootstrap
+4) Javascript
