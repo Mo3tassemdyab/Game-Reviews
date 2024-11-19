@@ -12,3 +12,6 @@
 
 ## API used
 ### FREETOGAME API ==> https://www.freetogame.com/api-doc
+
+
+# ScreenShots
